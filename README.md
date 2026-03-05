@@ -124,13 +124,6 @@ Game over occurs when the player runs out of:
 
 ---
 
-### **Vennycia Susanto — Map Design**
-**Contribution:**
-- Initial Map Design – Planned and designed the 4-islands map
-- Map Decor – Decorated island 4
-
----
-
 ## 📝 Notes
 
 Unlucky ★ Chicken 44 is designed as a short, focused experience emphasizing  
